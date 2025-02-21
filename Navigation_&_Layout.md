@@ -1,5 +1,5 @@
 
-2. Navigation & Layout
+2. Navigation & Layout 
 [[prompts_ameliore React + Vite]]
 ### Header (Basic–Intermediate)
 **Composant Header**  
